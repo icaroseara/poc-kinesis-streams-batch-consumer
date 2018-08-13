@@ -14,3 +14,8 @@ pip install -r requirements.txt
 python producer.py
 ```
 
+## Consume messages
+```bash
+python consumer.py
+```
+
